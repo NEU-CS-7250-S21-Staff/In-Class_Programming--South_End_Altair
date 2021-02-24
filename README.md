@@ -55,9 +55,11 @@ If you have trouble running any of these steps, see the If you run into problems
 1. Create a new Jupyter Notebook named `south_end.ipynb`.
 1. Follow along with the in-class tutorial. If you get lost, you can look at `south_end_complete.ipynb`.
 
+**Note:** You do not need to also do the infographic creation in Adobe Illustrator. That part of the tutorial is just to give you an idea of what is possible.
+
 Once you have written code in a cell you can run it with `ctrl+enter`. In the menu you can run all cells and restart the kernel to clear variables.
 
-## When we are done with the tutorial...
+## When we are done with the tutorial, if you have time...
 Start working through the [Altair data visualization curriculum](https://github.com/uwdata/visualization-curriculum).
 
 ## At the end of the exercise...
